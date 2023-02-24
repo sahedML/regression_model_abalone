@@ -3,7 +3,7 @@
 # data = abalone dataset to determine the age
 # data source: UCI machine learning repository
 # Sahed Ahmed Palash
-# October 2022
+# August 2022
 # Dhaka, Bangladesh
 
 # 1. predicting the age of abalone using LinearRegression model
